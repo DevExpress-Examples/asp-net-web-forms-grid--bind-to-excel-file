@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind ASPxGridView with Excel file
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4457/)**
+<!-- run online end -->
 
 
 <p>Our ASPxGridView control (like other data-aware web controls) does not work directly with real storage (like databases, MS office files, etc.).<br />
